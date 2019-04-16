@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043691013303",
+    "firebase_url": "https://mog-fitness.firebaseio.com",
+    "project_id": "mog-fitness",
+    "storage_bucket": "mog-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043691013303:android:ca2f83b8605b7854",
+        "android_client_info": {
+          "package_name": "com.mog.fitness.step"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043691013303-6490nss140giv0cerkbqljq51td51or4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-S9XvI3F67m2jj3e3nx8ht2rKgkcB0cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043691013303-6490nss140giv0cerkbqljq51td51or4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
